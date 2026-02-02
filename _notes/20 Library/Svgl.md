@@ -1,7 +1,7 @@
 ---
-title: https://svgl.app/Svgl
+title: SVGL
 category: "[[Log]]"
-link: https://stephango.com/flexoki
+link: https://svgl.app/Svgl
 date: 2025-09-19
 type: Resource
 recommended: true

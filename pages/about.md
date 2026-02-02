@@ -5,17 +5,14 @@ title: About Hiran Venugopalan
 content -type: static
 ---
 
-I've been working in design since 2010, leading teams and building products at the intersection of design, technology, and community. This year, I co-founded [UXFOSS](https://hiran.in/uxfoss), a community for people working on user experience in free and open source software.
-
-My path into design started with curiosity about free software and early internet communities. That led me to [Swathanthra Malayalam Computing](https://smc.org.in/), where I helped revamp the community and eventually designed [Dyuthi](https://smc.org.in/fonts/#dyuthi), one of the first fully-featured ornamental Unicode Malayalam typefaces. Later, I released [Rufscript](https://fontlibrary.org/en/font/rufscript), a Latin display typeface.
+Maker and product designer with over 15 years of experience shaping products and guiding design teams across agencies, startups, and enterprise environments. Long-time contributor to Free and Open Source projects, active in community building and design-led initiatives. Currently leading design at [Kaleyra, Tata Communications](https://www.tatacommunications.com/kaleyra). I also run the community initiatives [Kerala Designers Collabrative](https://www.instagram.com/kdco_official/), [UXFOSS](https://hiran.in/uxfoss), and [Ksha Collectives](https://www.instagram.com/ksha.cc/).
 
 ![Hiran Venugopalan, 2020](/assets/img/hiran-2020-asif.png)
 
-I co-founded Saltmangotree, one of India's early digital marketing studios, where I led design and technology until it was acquired by a French company. The name comes from [a line in a Malayalam movie](https://www.youtube.com/watch?v=GsU5-kndYHw)—a small inside joke that stuck around longer than we expected. Since then, I've worked across different contexts—leading and managing teams, building communication products, publishing tools, and civic tech platforms.
+In my career, I’ve worked on communication, content-management, and public-engagement products across early teams, and enterprise environments, designing and building teams that align with business and product priorities while translating goals into clear, usable interfaces and setting direction that delivers business impact. I co-founded Saltmangotree, an early digital marketing studio in India, where I led design and technology until its acquisition in 2013.
 
-Over the years, I've worked on projects like [Malayaleegraphy](https://facebook.com/malayaleegraphy), [Chali Machine](https://behance.net/gallery/40300789/the-chali-machine), and [Kerala Designer Co.](https://www.instagram.com/kdco_official/) Most were experiments and collaborations, born from the urge to build something and see what happens.
+My path into design began with my interest in Free and Open Source Software and by volunteering with [Swathanthra Malayalam Computing](https://smc.org.in/) in 2006, where I contributed to efforts to revive the project, created Dyuthi, an ornamental Malayalam Unicode font, and worked on other language computing projects. I also designed [Rufscript](https://fontlibrary.org/en/font/rufscript), a handwritting like Latin display typeface, available under Open Font License. 
 
-For the past four years, I've been exploring home brewing—experimenting with methods, learning from what works and what doesn't, and occasionally hosting small sessions to share techniques and experiences with others. It's part of the same practice: try something, adjust, and see what emerges.
+Alongside this, I participate in community initiatives. I’m active in [Kerala Designer Co.](https://www.instagram.com/kdco_official/), which focuses on shared learning. [UXFOSS](https://hiran.in/uxfoss) is a recent initiative that promotes design contributions to FOSS projects. [Ksha Collectives](https://www.instagram.com/ksha.cc/) explores simple, playful tools for language learning.
 
----
-*My logo is made from two mirrored ഹ characters, the first letter of my name in Malayalam. Together, they form an H—a simple bridge between scripts and identities.*
+These days I’m based in Bengaluru and reachable at <a href="mailto:hiran.v@gmail.com">hiran.v@gmail.com</a>.
