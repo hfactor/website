@@ -1,0 +1,44 @@
+<svg width="276" height="170" viewBox="0 0 276 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes fadeInScale {
+        from {
+          opacity: 0;
+          transform: scale(0.95);
+        }
+        to {
+          opacity: 1;
+          transform: scale(1);
+        }
+      }
+      .loader-icon {
+        animation: fadeInScale 2s ease-in-out infinite;
+      }
+      @keyframes spin {
+        from {
+          transform: rotate(0deg);
+        }
+        to {
+          transform: rotate(360deg);
+        }
+      }
+      .loader-ring {
+        animation: spin 3s linear infinite;
+        transform-origin: 138px 85px;
+      }
+    </style>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="138" cy="85" r="80" fill="none" stroke="#263DA6" stroke-width="1" opacity="0.1"/>
+  
+  <!-- Main icon -->
+  <g class="loader-icon">
+    <path d="M138 45C138 45 158 65 158 85C158 105 148 115 138 115C128 115 118 105 118 85C118 65 138 45 138 45Z" 
+          fill="#263DA6" opacity="0.8"/>
+    <path d="M138 60L148 80L128 80Z" fill="#F0EEE8"/>
+  </g>
+  
+  <!-- Subtle rotating ring -->
+  <circle cx="138" cy="85" r="70" fill="none" stroke="#263DA6" stroke-width="1.5" opacity="0.2" class="loader-ring"/>
+</svg>
