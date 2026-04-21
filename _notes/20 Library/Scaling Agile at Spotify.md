@@ -3,7 +3,7 @@ title: Scaling Agile at Spotify (PDF)
 category: "[[Log]]"
 link: https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf
 date: 2020-02-08
-type: articles
+type: Resource
 recommended: True
 local-title: 
 ---

@@ -3,7 +3,7 @@ title: Choose your dopamine hits wisely
 category: "[[Log]]"
 link: https://letterstozoe.com/choose-your-dopamine-hits-wisely/
 date: 2020-02-20
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---

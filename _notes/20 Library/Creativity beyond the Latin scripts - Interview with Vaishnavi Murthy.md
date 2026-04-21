@@ -3,7 +3,7 @@ title: Creativity beyond the Latin scripts - Interview with Vaishnavi Murthy
 category: "[[Log]]"
 link: https://www.typeroom.eu/creativity-beyond-the-latin-scripts
 date: 2024-08-30
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---

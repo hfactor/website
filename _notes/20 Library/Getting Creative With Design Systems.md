@@ -3,7 +3,7 @@ title: Getting Creative With Design Systems
 category: "[[Log]]"
 link: https://interfacecafe.com/doubleshot-getting-creative-with-design-systems/
 date: 2024-09-30
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---

@@ -3,7 +3,7 @@ title: Lots of Inputs and a Strong Filter
 category: "[[Log]]"
 link: https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/
 date: 2023-11-08
-type: articles
+type: Resource
 recommended: True
 local-title: 
 ---

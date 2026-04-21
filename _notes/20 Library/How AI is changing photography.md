@@ -3,7 +3,7 @@ title: How AI is changing photography
 category: "[[Log]]"
 link: https://www.theverge.com/2019/1/31/18203363/ai-artificial-intelligence-photography-google-photos-apple-huawei
 date: 2025-04-17
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---

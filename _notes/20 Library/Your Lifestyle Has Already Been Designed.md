@@ -3,7 +3,7 @@ title: Your Lifestyle Has Already Been Designed
 category: "[[Log]]"
 link: https://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/
 date: 2024-09-17
-type: articles
+type: Resource
 recommended: True
 local-title: 
 ---

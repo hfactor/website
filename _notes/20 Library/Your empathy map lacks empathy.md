@@ -3,7 +3,7 @@ title: Your empathy map lacks empathy
 category: "[[Log]]"
 link: https://uxdesign.cc/your-empathy-map-lacks-empathy-26cd4d2701a
 date: 2021-09-21
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---

@@ -3,7 +3,7 @@ title: File over app
 category: "[[Log]]"
 link: https://stephango.com/file-over-app
 date: 2023-08-02
-type: articles
+type: Resource
 recommended: True
 local-title: 
 ---

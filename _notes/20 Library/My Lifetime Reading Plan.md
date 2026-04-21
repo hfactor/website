@@ -3,7 +3,7 @@ title: My Lifetime Reading Plan
 category: "[[Log]]"
 link: https://www.honest-broker.com/p/my-lifetime-reading-plan
 date: 2024-12-26
-type: articles
+type: Resource
 recommended: True
 local-title: 
 ---

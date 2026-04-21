@@ -3,7 +3,7 @@ title: No Hello
 category: "[[Log]]"
 link: https://nohello.net/en/
 date: 2022-08-08
-type: articles
+type: Resource
 recommended: True
 local-title: 
 ---

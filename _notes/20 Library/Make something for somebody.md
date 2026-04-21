@@ -3,7 +3,7 @@ title: Make something for somebody
 category: "[[Log]]"
 link: https://austinkleon.com/2017/11/16/making-something-for-somebody/
 date: 2025-01-02
-type: articles
+type: Resource
 recommended: True
 local-title: 
 ---

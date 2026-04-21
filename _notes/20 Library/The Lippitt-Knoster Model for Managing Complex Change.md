@@ -3,7 +3,7 @@ title: The Lippitt-Knoster Model for Managing Complex Change
 category: "[[Log]]"
 link: https://sergiocaredda.eu/organisation/tools/models-the-lippitt-knoster-model-for-managing-complex-change/
 date: 2021-08-08
-type: articles
+type: Resource
 recommended: True
 local-title: 
 ---

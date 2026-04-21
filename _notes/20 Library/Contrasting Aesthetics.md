@@ -3,7 +3,7 @@ title: Contrasting Aesthetics
 category: "[[Log]]"
 link: https://rauno.me/craft/contrasting-aesthetics
 date: 2024-09-08
-type: articles
+type: Resource
 recommended: True
 local-title: 
 ---

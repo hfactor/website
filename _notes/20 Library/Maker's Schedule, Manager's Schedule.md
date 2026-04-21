@@ -3,7 +3,7 @@ title: Maker's Schedule, Manager's Schedule
 category: "[[Log]]"
 link: https://www.paulgraham.com/makersschedule.html
 date: 2022-11-21
-type: articles
+type: Resource
 recommended: True
 local-title: 
 ---

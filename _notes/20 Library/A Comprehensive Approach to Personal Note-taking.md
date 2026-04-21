@@ -3,7 +3,7 @@ title: A Comprehensive Approach to Personal Note-taking
 category: "[[Log]]"
 link: https://cameron-sea.medium.com/a-comprehensive-approach-to-personal-note-taking-babdce778b74
 date: 2020-09-09
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---

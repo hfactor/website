@@ -3,7 +3,7 @@ title: Human Task Switches Considered Harmful
 category: "[[Log]]"
 link: https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/
 date: 2021-07-17
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---

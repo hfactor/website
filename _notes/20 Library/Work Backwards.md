@@ -3,7 +3,7 @@ title: Work Backwards
 category: "[[Log]]"
 link: https://jamiemill.com/blog/work-backwards/
 date: 2021-03-19
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---

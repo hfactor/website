@@ -3,7 +3,7 @@ title: The Rise and Fall of Getting Things Done
 category: "[[Log]]"
 link: https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done
 date: 2020-12-11
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---

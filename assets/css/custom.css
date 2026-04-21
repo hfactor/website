@@ -469,7 +469,6 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-xs);
-  justify-content: flex-end;
   margin-bottom: var(--space-md);
 }
 

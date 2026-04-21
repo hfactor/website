@@ -1,7 +1,7 @@
 ---
 title: Vaadivaasal - The Arena
 category: "[[Log]]"
-link: Aathmavin Pusthakathalil
+link: https://amzn.to/4bHQihp
 date: 2025-02-15
 type: book
 recommended: true

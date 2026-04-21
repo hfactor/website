@@ -3,7 +3,7 @@ title: How to create stronger layouts with the 8pt Grid System
 category: "[[Log]]"
 link: https://uxdesign.cc/how-to-create-stronger-layouts-with-the-8pt-grid-system-cb0a1665714d
 date: 2021-05-01
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---

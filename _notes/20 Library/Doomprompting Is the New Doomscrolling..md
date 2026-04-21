@@ -3,7 +3,7 @@ title: Doomprompting Is the New Doomscrolling.
 category: "[[Log]]"
 link: https://www.workingtheorys.com/p/doomprompting
 date: 2025-10-01
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---

@@ -3,7 +3,7 @@ title: The work is never just the work
 category: "[[Log]]"
 link: https://davestewart.co.uk/blog/the-work-is-never-just-the-work/
 date: 2022-04-16
-type: articles
+type: Resource
 recommended: True
 local-title: 
 ---

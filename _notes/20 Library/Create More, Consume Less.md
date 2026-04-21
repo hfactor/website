@@ -3,7 +3,7 @@ title: Create More, Consume Less
 category: "[[Log]]"
 link: https://manuelmoreale.com/create-more-consume-less
 date: 2024-02-12
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---

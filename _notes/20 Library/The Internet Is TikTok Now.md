@@ -3,7 +3,7 @@ title: The Internet Is TikTok Now
 category: "[[Log]]"
 link: https://www.theatlantic.com/technology/archive/2025/01/tiktok-already-won/681343/
 date: 2025-02-02
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---

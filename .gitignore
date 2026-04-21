@@ -3,9 +3,11 @@ _site
 pages/.DS_Store
 pages/tags.md
 _notes/.obsidian
+_notes/.claude
 _notes/Public/.obsidian
 _notes/00 Inbox
-_notes/40 ThisThat
-_notes/50 WOW
+_notes/00 Wiki
+_notes/50 Newsletter
+_notes/80 WIP
 _notes/90 Private
 .last_build_time

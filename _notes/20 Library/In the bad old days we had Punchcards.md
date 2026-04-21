@@ -3,7 +3,7 @@ title: In the bad old days we had Punchcards
 category: "[[Log]]"
 link: https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html
 date: 2024-07-08
-type: articles
+type: Resource
 recommended: true
 local-title:
 ---
