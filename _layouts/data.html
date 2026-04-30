@@ -1,0 +1,14 @@
+---
+layout: Post
+content-type: static
+---
+
+<div class="feed-container">
+
+  {% assign items = site.data[page.data] %}
+
+  {% for item in items %}
+    {% include use-item.html item=item %}
+  {% endfor %}
+
+</div>

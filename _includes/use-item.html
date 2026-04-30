@@ -1,0 +1,33 @@
+<div class="notelist-feed library-item" data-type="uses">
+    <div class="library-content">
+  
+      <div class="library-title-row">
+        <span class="library-title-text">
+          {% if include.item.link %}
+            <a href="{{ include.item.link }}" target="_blank" rel="noopener">
+              {{ include.item.title }}
+            </a>
+          {% else %}
+            {{ include.item.title }}
+          {% endif %}
+          {% if include.item.year %}
+          <span class="library-date">{{ include.item.year }}</span>
+        {% endif %}
+        </span>
+       
+  
+        <span class="type-pill">{{ include.item.category }}</span>
+      </div>
+  
+      {% if include.item.comment or include.item.year %}
+        <div class="library-description">
+          <p>
+            {% if include.item.comment %}
+              {{ include.item.comment }}
+            {% endif %}
+          </p>
+        </div>
+      {% endif %}
+  
+    </div>
+  </div>
